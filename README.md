@@ -3,7 +3,6 @@
 B.Sc. student in **Water Science & Engineering**, Sari Agricultural Sciences and Natural Resources University (Iran).
 
  Hydrology · Water Resources · Climate Change · GIS
- Goal: M.Sc. in Water Resources → PhD abroad
 
 ##  Current work
 - Basin-scale hydrological assessment, Tajan Watershed
